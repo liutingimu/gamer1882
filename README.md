@@ -14,12 +14,27 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center"> Hi , I’m Zhen Wang .
+<h1 align="center"> Hi , I’m Zhen Wang.
 </h1>
 
-
 ---
-#   About me
+
+<h2 align="center"> Correspondence &emsp; Research Interests&emsp; Recent Publications
+</h2>
+
+##   Correspondence
+
+- 👨🏻‍🎓 &nbsp; Name: Zhen Wang 
+- 👨🏻‍🎓 &nbsp; I received my Doctor’s degree in College of Mathematics from Jilin University, China, in 2014.  
+- 🔭 &nbsp; Currently, I'm a Professor in School of Mathematical Sciences from Inner Monggolia University.
+- 👨🏻‍💻 &nbsp; I have wide research interests, My research interests include pattern recognition, text categorization, and data mining.
+- ⚡ &nbsp; I speak Python,Matlab,C++ and so on. <img src="https://tse1-mm.cn.bing.net/th/id/R-C.b7d45101b0452bb7dd3dab2a92f63c79?
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/gamer1882).
+- 🤝 &nbsp; Welcom for everyone who need help or collaborator.
+- 📫 &nbsp; How to reach me:  +86-10-62736265(H)
+- 📫 &nbsp; Address: College of Science, China Agriculture Univercity, P.O.Box 483, Beijing 100083, China
+- 🔭 &nbsp; Last Modified: 2015-01-10
+
 
 - 👨🏻‍🎓 &nbsp; I’m a teacher，received my Doctor’s degree in College of Mathematics from Jilin University, China, in 2014.  
 - 🔭 &nbsp; Currently,I’m a Professor in School of Mathematical Sciences from Inner Monggolia University and I'm a number of the Optimized and Artificial Intelligence Research Team.[](http://www.optimal-group.org/) .The official account of WeChat is OPTIMAL机器学习.
