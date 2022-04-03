@@ -24,3 +24,28 @@ Here are some ideas to get you started:
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/gamer1882).
 - 📫 &nbsp; I write stuff at [![Github Badge](https://img.shields.io/badge/-gamer1882-grey?style=flat&logo=github&logoColor=white&link=https://github.com/gamer1882/)](https://www.github.com/gamer1882/)
 - 🤝 &nbsp; Welcom for everyone who need help or collaborator. 
+
+<details>	
+  <summary><b>🏆 Github Trophies</b></summary>
+	
+  <div align="center"> 
+    <img 
+      src="https://github-profile-trophy.vercel.app/?username=DengNaiYang&theme=gruvbox" alt="github-profile-trophy"
+      height="180em"
+    />
+    <!-- &title=MultiLanguage,Commit,Repositories,Issues -->
+	</div>
+</details>
+
+<details>	
+  <summary><b>📈 Github Stats</b></summary>
+
+  <div align="center"> 
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=DengNaiYang&count_private=true&show_icons=true&theme=gruvbox&locale=en"
+      alt="github-readme-stats"
+      height="180em" 
+    />
+	</div>
+</details>
+
