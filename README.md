@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 	
   <div align="center"> 
     <img 
-      src="https://github-profile-trophy.vercel.app/?username=DengNaiYang&theme=gruvbox" alt="github-profile-trophy"
+      src="https://github-profile-trophy.vercel.app/?username=WangZhen&theme=gruvbox" alt="github-profile-trophy"
       height="180em"
     />
     <!-- &title=MultiLanguage,Commit,Repositories,Issues -->
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
   <div align="center"> 
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=DengNaiYang&count_private=true&show_icons=true&theme=gruvbox&locale=en"
+      src="https://github-readme-stats.vercel.app/api?username=WangZhen&count_private=true&show_icons=true&theme=gruvbox&locale=en"
       alt="github-readme-stats"
       height="180em" 
     />
